@@ -1,1 +1,1 @@
-[![Github stats](https://github-readme-stats.vercel.app/api?username=flosker)]
+![Github stats](https://github-readme-stats.vercel.app/api?username=flosker)
